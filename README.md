@@ -75,23 +75,40 @@
 
 	发现页面：安卓阅读::一小段空白，源阅读::铺满一行
 
-### 感谢以下源作者的无私分享（：
+### 感谢以下源作者的无私分享：
 	
-[一程](https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json)
-[namo](https://namofree.coding.net/p/yuedu/d/legado/git/raw/master/legadoNamo.json)
-[破冰](https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/tysy.json)
-[天域战歌](https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/huahuo.json)
-[haxc](https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json)
-不世玄奇
-[渊呀](https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json?download=false)
-[关耳](https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json)
-乃星
-[糖果](https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json)
-千仞云
-[黄凡凡](https://cdn.jsdelivr.net/gh/mgz0227/legadobookSource/hffsy.json)
-夏一
-[暗香迷迭](https://wyue108.coding.net/p/weiyueshibashuyuan/d/Wyue108/git/raw/master/bookSource.json)
-wjc是竟成
-祎墨
-响海
-[692](https://k692296.coding.net/p/yuanyuedu/d/yuanyuedu/git/raw/master/shuyuan2.json)
+	[一程](https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json)
+	
+	[namo](https://namofree.coding.net/p/yuedu/d/legado/git/raw/master/legadoNamo.json)
+	
+	[破冰](https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/tysy.json)
+	
+	[天域战歌](https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/huahuo.json)
+	
+	[haxc](https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json)
+	
+	不世玄奇
+	
+	[渊呀](https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json?download=false)
+	
+	[关耳](https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json)
+	
+	乃星
+	
+	[糖果](https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json)
+	
+	千仞云
+	
+	[黄凡凡](https://cdn.jsdelivr.net/gh/mgz0227/legadobookSource/hffsy.json)
+	
+	夏一
+	
+	[暗香迷迭](https://wyue108.coding.net/p/weiyueshibashuyuan/d/Wyue108/git/raw/master/bookSource.json)
+	
+	wjc是竟成
+	
+	祎墨
+	
+	响海
+	
+	[692](https://k692296.coding.net/p/yuanyuedu/d/yuanyuedu/git/raw/master/shuyuan2.json)

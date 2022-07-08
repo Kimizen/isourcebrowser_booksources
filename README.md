@@ -77,7 +77,7 @@
 
 ### 感谢以下源作者的无私分享：
 	
-[一程](https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json)
+[一程](https://gitee.com/i-c/yd/blob/sy/README.md)
 
 [namo](https://namofree.coding.net/p/yuedu/d/legado/git/raw/master/legadoNamo.json)
 
